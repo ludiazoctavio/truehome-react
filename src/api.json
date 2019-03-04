@@ -1,0 +1,74 @@
+{
+    "categories": [
+        {
+            "id":1,
+            "description": "Departamentos",
+            "title": "Despartamentos",
+            "list": [
+                {
+                    "id":1,
+                    "address": "171 Ferry Place, Ripley, Mississippi, 1091",
+                    "owner": "Juliet Patton (842) 533-3089",
+                    "price": "12,000000 MXN",
+                    "image": "./images/ceiling-chairs-contemporary-1864888-min.jpg"
+                },
+                {
+                    "id":2,
+                    "address": "158 Morton Street, Shawmut, Alabama, 8661",
+                    "owner": "Nash Wyatt (892) 456-3564",
+                    "price": "3,000000 MXN",
+                    "image": "./images/ceiling-lamp-contemporary-curtains-1439712-min.jpg"
+                },
+                {
+                    "id":3,
+                    "address": "804 Clarkson Avenue, Osmond, West Virginia, 2417",
+                    "owner": "Perez Weber (910) 524-2474",
+                    "price": "6,000000 MXN",
+                    "image": "./images/chairs-contemporary-curtains-1766513-min.jpg"
+                },
+                {
+                    "id":4,
+                    "address": "624 Seagate Terrace, Bellamy, North Carolina, 2878",
+                    "owner": "Beulah Gordon (905) 565-3820",
+                    "price": "9,000000 MXN",
+                    "image": "./images/appliances-architecture-ceiling-534151-min.jpg"
+                },
+                {
+                    "id":5,
+                    "address": "849 Beverly Road, Bourg, Alaska, 9188",
+                    "owner": "Cline Zamora (999) 470-3661",
+                    "price": "5,000000 MXN",
+                    "image": "./images/ceiling-chairs-clean-1757322-min.jpg"
+                },
+                {
+                    "id":6,
+                    "address": "746 Quentin Street, Nutrioso, Kansas, 164",
+                    "owner": "Buck Summers +1 (813) 508-3767",
+                    "price": "1,000000 MXN",
+                    "image": "./images/cabinets-chairs-contemporary-1790224-min.jpg"
+                },
+                {
+                    "id":7,
+                    "address": "208 Stratford Road, Sidman, California, 4556",
+                    "owner": "Finley Randolph +1 (976) 470-2173",
+                    "price": "11,000000 MXN",
+                    "image": "./images/cabinets-contemporary-counter-1380019-min.jpg"
+                },
+                {
+                    "id":8,
+                    "address": "104 Harrison Avenue, Catherine, Colorado, 5795",
+                    "owner": "Peterson Robles (808) 497-2095",
+                    "price": "4,000000 MXN",
+                    "image": "./images/cabinets-contemporary-counter-1504025-min.jpg"
+                },
+                {
+                    "id":9,
+                    "address": "372 Dewey Place, Sehili, Georgia, 4417",
+                    "owner": "Maureen Travis (865) 547-2463",
+                    "price": "1,000000 MXN",
+                    "image": "./images/ceiling-chairs-contemporary-1864898-min.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -3,9 +3,35 @@
 <head>
   <meta charset="UTF-8">
   <title>TrueHome</title>
+  <link rel="stylesheet" href="dist/css/truehome.323af2a1077c6bc609c5.css">
 </head>
 <body>
-  <div id="app"></div>
-  <script src="http://localhost:9000/js/truehome.js"></script>
+  <nav class="navbar navbar-dark bg-primary">
+    <a class="navbar-brand logo" href="#">TrueHome</a>
+  </nav>
+  <div class="container">
+    <nav class="navbar navbar-light bg-light">
+    <h2 class="navbar-brand">Manage Properties</h2>
+    <form class="form-inline">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+    </nav>
+    <div id="app"></div>
+    <nav aria-label="Page navigation example">
+        <ul class="pagination justify-content-end">
+            <li class="page-item disabled">
+            <a class="page-link" href="#" tabindex="-1">Previous</a>
+            </li>
+            <li class="page-item"><a class="page-link" href="#">1</a></li>
+            <li class="page-item"><a class="page-link" href="#">2</a></li>
+            <li class="page-item"><a class="page-link" href="#">3</a></li>
+            <li class="page-item">
+            <a class="page-link" href="#">Next</a>
+            </li>
+        </ul>
+        </nav>
+  </div>
+  <script src="dist/js/truehome.323af2a1077c6bc609c5.js"></script>
 </body>
 </html>
